@@ -76,9 +76,6 @@ export default function Footer({ setPrompt }) {
                     <i className="fa-solid fa-arrow-up"></i>
                 </Btn>
             </ChatBoxForm>
-            <Caption>
-                Developed by <a href={"https://kjcreddy666.github.io/portfolio"} target="_blank" rel="noopener noreferrer"> Jay </a>
-            </Caption>
         </StyledFooter>
     );
 }
